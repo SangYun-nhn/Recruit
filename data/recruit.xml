@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recruit>
+    <title>NHN 그룹사 게임부문 신입/경력 공개채용</title>
+    <gameList>
+        <game>
+            <name>POKER</name>
+            <description>한게임 포커는 대한민국 최초 게임 포털인 한게임에서 출시하여 현재까지 꾸준한 사랑을 받고 있는 '국민 포커' 게임입니다.</description>
+        </game>
+        <game>
+            <name>신윷놀이2</name>
+            <description>윷을 던져서 나온 결과값으로 말판위에 말을 모두 돌아 골인하면 승리하는 보드 게임 입니다.</description>
+        </game>
+        <game>
+            <name>라인팝2</name>
+            <description>라인 프렌즈 캐릭터와 함께 즐기는 퍼즐 게임으로, 오랜 기간 일본에서 사랑받고 있습니다.</description>
+        </game>
+    </gameList>
+    <interviewList>
+        <interview>
+            <name>김대호 수석</name>
+            <organization>게임플랫폼클라팀</organization>
+            <url>https://nhncareers.oopy.io/45d7f474-6af9-48c3-8d33-ffca18eecce2</url>
+        </interview>
+        <interview>
+            <name>김윤희 이사</name>
+            <organization>게임포털개발랩</organization>
+            <url>https://nhncareers.oopy.io/6174c1ac-4c26-422e-96a3-c1eff705b1cb</url>
+        </interview>
+    </interviewList>
+    <faqList>
+        <faq>
+            <question>졸업 예정자도 지원 가능한가요?</question>
+            <answer>신입사원은 11월 8일 입사 예정입니다. 해당 일자에 입사 가능하다면 졸업 예정자도 지원 가능합니다.</answer>
+        </faq>
+        <faq>
+            <question>과거에 NHN에 지원했었어요. 재지원 가능한가요?</question>
+            <answer>지원 이력과 무관하게 지원 가능합니다. 과거 지원 이력은 이번 공채 진행에 어떠한 영향도 끼치지 않으니 걱정 내려놓고 지원해 주세요!</answer>
+        </faq>
+    </faqList>
+</recruit>
